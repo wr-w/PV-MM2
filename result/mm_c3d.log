@@ -1,0 +1,46 @@
+nohup: 忽略输入
+/home/inspur/anaconda3/envs/pvideo/lib/python3.6/site-packages/mmcv/cnn/bricks/transformer.py:28: UserWarning: Fail to import ``MultiScaleDeformableAttention`` from ``mmcv.ops.multi_scale_deform_attn``, You should install ``mmcv-full`` if you need this module. 
+  warnings.warn('Fail to import ``MultiScaleDeformableAttention`` from '
+Use load_from_local loader
+ latency: 0.7591 sec throughput: 1.3174 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7600 sec throughput: 1.3158 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7602 sec throughput: 1.3155 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7779 sec throughput: 1.2855 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7740 sec throughput: 1.2921 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7930 sec throughput: 1.2610 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7345 sec throughput: 1.3616 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7633 sec throughput: 1.3100 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7721 sec throughput: 1.2952 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.6971 sec throughput: 1.4344 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+ latency: 0.7156 sec throughput: 1.3974 req/sec
+
+The top-5 labels with corresponding scores are: [[('MoppingFloor', 8.186218), ('HandstandWalking', 7.1929564), ('BabyCrawling', 6.7287874), ('HeadMassage', 6.4929934), ('BlowingCandles', 6.1261516)]]
+
+
+total batches: 11, batch_size: 1
+total latency: 8.309733152389526 s
+total throughput: 1.3237488855868815 req/sec
+50th-percentile latency: 0.7601513862609863 s
+95th-percentile latency: 0.7854524850845337 s
+99th-percentile latency: 0.7914929628372193 s
+completed at 2021-10-12 18:18:10.165563

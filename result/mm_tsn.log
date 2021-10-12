@@ -1,0 +1,46 @@
+nohup: 忽略输入
+/home/inspur/anaconda3/envs/pvideo/lib/python3.6/site-packages/mmcv/cnn/bricks/transformer.py:28: UserWarning: Fail to import ``MultiScaleDeformableAttention`` from ``mmcv.ops.multi_scale_deform_attn``, You should install ``mmcv-full`` if you need this module. 
+  warnings.warn('Fail to import ``MultiScaleDeformableAttention`` from '
+Use load_from_local loader
+ latency: 1.7660 sec throughput: 0.5662 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.7134 sec throughput: 0.5836 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.7412 sec throughput: 0.5743 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.7999 sec throughput: 0.5556 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.8139 sec throughput: 0.5513 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.8055 sec throughput: 0.5539 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.8046 sec throughput: 0.5541 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.8378 sec throughput: 0.5441 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.7740 sec throughput: 0.5637 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.7329 sec throughput: 0.5771 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+ latency: 1.7483 sec throughput: 0.5720 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 29.616438), ('rock scissors paper', 10.75484), ('shaking hands', 9.908401), ('clapping', 9.189913), ('massaging feet', 8.3053055)]]
+
+
+total batches: 11, batch_size: 1
+total latency: 19.545121908187866 s
+total throughput: 0.5628002757758122 req/sec
+50th-percentile latency: 1.774019718170166 s
+95th-percentile latency: 1.8258633613586426 s
+99th-percentile latency: 1.8354268074035645 s
+completed at 2021-10-12 18:05:56.716067

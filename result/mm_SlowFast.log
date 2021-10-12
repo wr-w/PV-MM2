@@ -1,0 +1,48 @@
+nohup: 忽略输入
+/home/inspur/anaconda3/envs/pvideo/lib/python3.6/site-packages/mmcv/cnn/bricks/transformer.py:28: UserWarning: Fail to import ``MultiScaleDeformableAttention`` from ``mmcv.ops.multi_scale_deform_attn``, You should install ``mmcv-full`` if you need this module. 
+  warnings.warn('Fail to import ``MultiScaleDeformableAttention`` from '
+/home/inspur/anaconda3/envs/pvideo/lib/python3.6/site-packages/torch/nn/functional.py:3103: UserWarning: The default behavior for interpolate/upsample with float scale_factor changed in 1.6.0 to align with other frameworks/libraries, and now uses scale_factor directly, instead of relying on the computed output size. If you wish to restore the old behavior, please set recompute_scale_factor=True. See the documentation of nn.Upsample for details. 
+  warnings.warn("The default behavior for interpolate/upsample with float scale_factor changed "
+Use load_from_local loader
+ latency: 19.6052 sec throughput: 0.0510 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.3784 sec throughput: 0.0516 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.2993 sec throughput: 0.0518 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.4164 sec throughput: 0.0515 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.5427 sec throughput: 0.0512 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.4981 sec throughput: 0.0513 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.7617 sec throughput: 0.0506 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.4696 sec throughput: 0.0514 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.5196 sec throughput: 0.0512 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.4406 sec throughput: 0.0514 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+ latency: 19.5831 sec throughput: 0.0511 req/sec
+
+The top-5 labels with corresponding scores are: [[('arm wrestling', 0.99999815), ('shaking hands', 8.7668974e-07), ('rock scissors paper', 2.667019e-07), ('headbutting', 1.1768701e-07), ('kissing', 5.888633e-08)]]
+
+
+total batches: 11, batch_size: 1
+total latency: 214.52225303649902 s
+total throughput: 0.05127673164111533 req/sec
+50th-percentile latency: 19.49805760383606 s
+95th-percentile latency: 19.68345022201538 s
+99th-percentile latency: 19.74601411819458 s
+completed at 2021-10-12 18:41:53.691780
