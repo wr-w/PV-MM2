@@ -10,11 +10,12 @@ mmcv-full
 
 ```
 
-Install pytorchvideo and mmaction2，please read [https://github.com/facebookresearch/pytorchvideo/blob/main/INSTALL.md 、](https://github.com/facebookresearch/pytorchvideo/blob/main/INSTALL.md)[https://github.com/open-mmlab/mmaction2/blob/master/docs_zh_CN/install.md](https://github.com/open-mmlab/mmaction2/blob/master/docs_zh_CN/install.md)
+Install pytorchvideo and mmaction2，please read [https://github.com/facebookresearch/pytorchvideo/blob/main/INSTALL.md ]、(https://github.com/facebookresearch/pytorchvideo/blob/main/INSTALL.md)[https://github.com/open-mmlab/mmaction2/blob/master/docs_zh_CN/install.md](https://github.com/open-mmlab/mmaction2/blob/master/docs_zh_CN/install.md)
 
 # MMAction2
 
 Selecte  pre-training model to evaluate their inference performance ,such as, SlowFast,I3D,C3D and TSN.
+Get the required pre-trained model: [https://github.com/open-mmlab/mmaction2]
 
 ## 1.Start Profiling
 
