@@ -1,0 +1,43 @@
+nohup: ignoring input
+ latency: 0.0000 sec throughput: 2097152.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 2097152.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 2097152.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 2097152.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+ latency: 0.0000 sec throughput: 4194304.0000 req/sec
+
+The top-5 labels with corresponding scores are: ['arm wrestling', 'shaking hands', 'rock scissors paper', 'headbutting', 'tossing coin']
+
+
+total batches: 11, batch_size: 1
+total latency: 0.3877718448638916 s
+total throughput: 28.367196189452624 req/sec
+50th-percentile latency: 2.384185791015625e-07 s
+95th-percentile latency: 4.76837158203125e-07 s
+99th-percentile latency: 4.76837158203125e-07 s
+completed at 2021-10-12 17:03:30.497987
